@@ -1,0 +1,10 @@
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\bin\Debug\ClassLibrary1.dll
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\bin\Debug\ClassLibrary1.pdb
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\obj\Debug\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\obj\Debug\ExerciseOne.csproj.CopyComplete
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\stefan.dimikj\source\repos\Exercise1\ExerciseOne\obj\Debug\ExerciseOne.pdb
