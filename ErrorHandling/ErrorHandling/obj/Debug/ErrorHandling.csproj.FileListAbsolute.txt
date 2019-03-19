@@ -1,0 +1,7 @@
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\stefan.dimikj\Desktop\Repositories\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
